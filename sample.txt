@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 adding a new line
-=======
 hello dude
->>>>>>> 584986199087970bbb455b706ff8578012c95bf5
+
